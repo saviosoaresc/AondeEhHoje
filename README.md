@@ -1,5 +1,5 @@
 # AondeEhHoje
-App (Mobile) em desenvolvimento de acesso à cultura na cidade de Quixadá onde eu moro.
+App (Mobile) em desenvolvimento de acesso à cultura na cidade de Quixadá.
 Linguagem de Programação: React Native.
 
 
